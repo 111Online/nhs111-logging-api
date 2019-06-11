@@ -1,0 +1,17 @@
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.deps.json
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.runtimeconfig.json
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.runtimeconfig.dev.json
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.dll
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.csprojAssemblyReference.cache
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.csproj.CoreCompileInputs.cache
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.RazorAssemblyInfo.cache
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.RazorAssemblyInfo.cs
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.AssemblyInfoInputs.cache
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.AssemblyInfo.cs
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.RazorTargetAssemblyInfo.cache
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.pdb
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.dll
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.pdb
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.dll
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.pdb
+D:\source\repos\nhs111-logging-api\NHS111.Logging.Api\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.csproj.CopyComplete
