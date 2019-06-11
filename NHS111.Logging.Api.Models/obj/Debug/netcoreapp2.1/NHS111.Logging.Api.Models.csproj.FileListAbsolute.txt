@@ -1,9 +1,0 @@
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.deps.json
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.dll
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.csproj.CoreCompileInputs.cache
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.AssemblyInfoInputs.cache
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.AssemblyInfo.cs
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.csprojAssemblyReference.cache
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\bin\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.pdb
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.dll
-D:\source\repos\nhs111-logging-api\NHS111.Logging.Api.Models\obj\Debug\netcoreapp2.1\NHS111.Logging.Api.Models.pdb
