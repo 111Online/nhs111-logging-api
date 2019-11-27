@@ -53,6 +53,12 @@ namespace NHS111.Logging.Api.Models
         [JsonProperty(PropertyName = "eventData")]
         public string EventData { get; set; }
 
+        [JsonProperty(PropertyName = "eventKey")]
+        public string EventKey { get; set; }
+
+        [JsonProperty(PropertyName = "eventValue")]
+        public string EventValue { get; set; }
+
         [JsonProperty(PropertyName = "page")]
         public string Page { get; set; }
 
