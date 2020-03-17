@@ -69,7 +69,7 @@ namespace NHS111.Logging.Api.Models
         public string Gender { get; set; }
 
         [JsonProperty(PropertyName = "postcodePart")]
-        public string PostcodePart { get; set; }
+        public string PostCodePart { get; set; }
 
         [JsonProperty(PropertyName = "search")]
         public string Search { get; set; }
