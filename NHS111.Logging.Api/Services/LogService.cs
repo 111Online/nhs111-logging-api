@@ -27,7 +27,7 @@ namespace NHS111.Logging.Api.Services
         public async Task Log<T>(T entity) where T : ITableEntity
         {
             var insertOperation = TableOperation.Insert(entity);
-            var tableName = $"{_defaultStorageTableName}{DateTime.UtcNow:yyyyMM}";
+            var tableName = $"{_defaultStorageTableName}{DateTime.UtcNow:yyyyMMdd}";
             await GetTable(tableName).ExecuteAsync(insertOperation);
         }
 
