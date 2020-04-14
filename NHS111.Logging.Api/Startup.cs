@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using System.IO;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -42,6 +44,12 @@ namespace NHS111.Logging.Api
             else
             {
                 app.UseHsts();
+            }
+
+            using (StreamReader iisUrlRewriteStreamReader = File.OpenText("wwwroot/web.config"))
+            {
+                var options = new RewriteOptions().AddIISUrlRewrite(iisUrlRewriteStreamReader);
+                app.UseRewriter(options);
             }
 
             app.UseHttpsRedirection();
